@@ -38,11 +38,10 @@ My journey includes developing local LLM-based chatbots, contributing to AI tool
 
 ### 💡 Projects
 
-- [AutoBidAI](https://github.com/your-repo-here) – An AI-based bidding tool trained on historical data  
-- [LLM Chatbot (local)](https://github.com/your-repo-here) – Chatbot using Mistral & Llama 3 with Ollama  
-- [SimCity Simulation (C++)](https://github.com/your-repo-here) – City growth simulation managing zones and pollution  
-- [Wordle Clone](https://github.com/your-repo-here) – Game inspired by Wordle with UI/UX refinements  
-- [Finance Tracker](https://github.com/your-repo-here) – Personal finance tool for college students (WIP)  
+- [AutoBidAI](https://github.com/Kavan04/AutoBidAI) – An AI-based bidding tool trained on historical data  
+- [LLM Chatbot (local)](https://github.com/Kavan04/RAG) – Chatbot using Mistral & Llama 3 with Ollama  
+- [Image Classifier](https://github.com/Kavan04/ImageClassification) – Indentifies images based on pictures and tags them using Neural networks 
+- [AxWrld](https://github.com/Kavan04/axwrld) – The Global Recipe Map forms the foundation of Axwrld, allowing users to explore recipes by region, culture, and cuisine.    
 
 ---
 
