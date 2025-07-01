@@ -1,89 +1,54 @@
-### Hi there, I'm Kavan Vyas 👋
+![Welcome Banner](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-I'm a student at the University of North Texas, pursuing a B.S. in Computer Science and math with a minor in Artificial Intelligence. I'm passionate about solving problems with technology and combining logic with creativity.
+# Hi! I’m Kavan Vyas 
+---
 
-<a href="https://www.linkedin.com/in/kavan04/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:kavanv04@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+### Aspiring AI & Cybersecurity Professional | UNT Class of 2027  
+
+I’m currently pursuing a dual degree in **Computer Science** and **Finance** at the University of North Texas. Born with a curiosity for how technology drives change, I’ve been diving deep into AI, cybersecurity, and data systems — always looking for opportunities to apply code to real-world problems.
+
+My journey includes developing local LLM-based chatbots, contributing to AI toolkits, and building interactive apps like a Wordle clone. I’m passionate about creating scalable systems and secure solutions, and I’m always eager to collaborate on meaningful tech projects.
+
+> 🚀 My mission is to build ethical, accessible AI solutions that make a difference in people’s lives.
 
 ---
 
-### 💻 Tech Stack
+- 📍 Based in Dallas–Fort Worth  
+- 📫 Reach me at [kavanv04@gmail.com](mailto:kavanv04@gmail.com) or 940.629.7801  
+- 🧠 Currently exploring: LLM fine-tuning, API optimization, and smart city simulations  
+- 🎓 Honors: Alpha Lambda Delta, Dean's List of('23,'24 &'25)
+- 🎮 Fun fact: I’m a huge fan of retro games and enjoy re-creating them with modern tools  
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://www.python.org/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="48" height="48" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="https://isocpp.org/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="48" height="48" />
-      </a>
-      <br>C++
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.java.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="48" height="48" />
-      </a>
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="48" height="48" />
-      </a>
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-      <a href="https.developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS3" width="48" height="48" />
-      </a>
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="48" height="48" />
-      </a>
-      <br>JavaScript
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://flask.palletsprojects.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="48" height="48" />
-      </a>
-      <br>Flask
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.mongodb.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="48" height="48" />
-      </a>
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.tensorflow.org/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="48" height="48" />
-      </a>
-      <br>TensorFlow
-    </td>
-    <td align="center" width="96">
-      <a href="https://git-scm.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" />
-      </a>
-      <br>Git
-    </td>
-     <td align="center" width="96">
-      <a href="https://unity.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="48" height="48" />
-      </a>
-      <br>Unity
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.blender.org/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" alt="Blender" width="48" height="48" />
-      </a>
-      <br>Blender
-    </td>
-  </tr>
-</table>
+---
+
+### ⚙️ Tech Stack
+
+<p align="left">
+  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+  <a href="https://cplusplus.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+  <a href="https://nodejs.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+</p>
+
+---
+
+### 💡 Projects
+
+- [AutoBidAI](https://github.com/your-repo-here) – An AI-based bidding tool trained on historical data  
+- [LLM Chatbot (local)](https://github.com/your-repo-here) – Chatbot using Mistral & Llama 3 with Ollama  
+- [SimCity Simulation (C++)](https://github.com/your-repo-here) – City growth simulation managing zones and pollution  
+- [Wordle Clone](https://github.com/your-repo-here) – Game inspired by Wordle with UI/UX refinements  
+- [Finance Tracker](https://github.com/your-repo-here) – Personal finance tool for college students (WIP)  
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://github.com/kavanvyas" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/kavanvyas" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
+</p>
