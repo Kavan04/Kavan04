@@ -16,8 +16,7 @@ My journey includes developing local LLM-based chatbots, contributing to AI tool
 - 📍 Based in Dallas–Fort Worth  
 - 📫 Reach me at [kavanv04@gmail.com](mailto:kavanv04@gmail.com)
 - 🧠 Currently exploring: LLM fine-tuning, API optimization and Data modelling
-- 🎓 Honors: Alpha Lambda Delta, Dean's List of('23,'24 &'25)
-- 🎮 Fun fact: I’m a huge fan of retro games and enjoy re-creating them with modern tools  
+- 🎓 Honors: Alpha Lambda Delta, Dean's List of('23,'24 &'25) 
 
 ---
 
