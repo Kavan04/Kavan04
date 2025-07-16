@@ -5,7 +5,7 @@
 
 ### Aspiring AI & Cybersecurity Professional | UNT Class of 2027  
 
-I’m currently pursuing a dual degree in **Computer Science** and **Finance** at the University of North Texas. Born with a curiosity for how technology drives change, I’ve been diving deep into AI, cybersecurity, and data systems — always looking for opportunities to apply code to real-world problems.
+I’m currently pursuing a degree in **Computer Science** and at the University of North Texas. Born with a curiosity for how technology drives change, I’ve been diving deep into AI, cybersecurity, and data systems — always looking for opportunities to apply code to real-world problems.
 
 My journey includes developing local LLM-based chatbots, contributing to AI toolkits, and building interactive apps like a Wordle clone. I’m passionate about creating scalable systems and secure solutions, and I’m always eager to collaborate on meaningful tech projects.
 
