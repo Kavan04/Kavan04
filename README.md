@@ -48,5 +48,5 @@ My journey includes developing local LLM-based chatbots, contributing to AI tool
 
 <p align="left">
   <a href="https://github.com/kavanvyas" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/kavanvyas" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/kavan04" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
 </p>
