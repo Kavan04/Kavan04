@@ -3,7 +3,7 @@
 # Hi! I’m Kavan Vyas 
 ---
 
-### Aspiring AI & Cybersecurity Professional | UNT Class of 2027  
+### Aspiring AI & Cybersecurity Professional
 
 I’m currently pursuing a degree in **Computer Science** at the University of North Texas. Born with a curiosity for how technology drives change, I’ve been diving deep into AI, cybersecurity, and data systems — always looking for opportunities to apply code to real-world problems.
 
