@@ -13,11 +13,7 @@ My journey includes developing local LLM-based chatbots, contributing to AI tool
 
 ---
 
-- 📍 Based in Dallas–Fort Worth  
 - 📫 Reach me at [kavanv04@gmail.com](mailto:kavanv04@gmail.com)
-- 🧠 Currently exploring: LLM fine-tuning, API optimization and Data modelling
-- 🎓 Honors: Alpha Lambda Delta, Dean's List of('23,'24 &'25) 
-
 ---
 
 ### ⚙️ Tech Stack
@@ -47,6 +43,5 @@ My journey includes developing local LLM-based chatbots, contributing to AI tool
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://github.com/kavanvyas" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/kavan04" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
+    <a href="https://www.linkedin.com/in/kavan04" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
 </p>
